@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "project_name": "Mental Pain Sculptures",
+  "output_filename": "mental-pain-sculptures-adapted.mp4",
+  "timing_reference": "inbox/This Artist Sculpts What Mental Pain Actually Feels Like #art #history.mp4",
+  "reference_duration_seconds": 13.3,
+  "reference_duration_tolerance_seconds": 0.15,
+  "segments": [
+    {
+      "type": "still",
+      "asset": "working/this-artist-sculpts-what-mental-pain-actually-feels-like-art-history/assets/01-Under-the-Skin.jpg",
+      "frames": 53,
+      "caption": "A soul trying to break free\nfrom its own body",
+      "caption_y": 0.55
+    },
+    {
+      "type": "still",
+      "asset": "working/this-artist-sculpts-what-mental-pain-actually-feels-like-art-history/assets/02-Here-and-There.jpg",
+      "frames": 63,
+      "caption": "A mind at war\nwith itself",
+      "caption_y": 0.55
+    },
+    {
+      "type": "still",
+      "asset": "working/this-artist-sculpts-what-mental-pain-actually-feels-like-art-history/assets/04-Unveil.jpg",
+      "frames": 63,
+      "caption": "Keeping every emotion\nlocked away",
+      "caption_y": 0.27
+    },
+    {
+      "type": "still",
+      "asset": "working/this-artist-sculpts-what-mental-pain-actually-feels-like-art-history/assets/03-Lawful-Custody.jpg",
+      "frames": 63,
+      "caption": "Feeling trapped\ninside yourself",
+      "caption_y": 0.27
+    },
+    {
+      "type": "still",
+      "asset": "working/this-artist-sculpts-what-mental-pain-actually-feels-like-art-history/assets/05-The-Comfort.jpg",
+      "frames": 52,
+      "caption": "Comforting yourself\nall alone",
+      "caption_y": 0.25
+    }
+  ]
+}

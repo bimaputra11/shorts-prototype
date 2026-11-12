@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "project_name": "Maria Luisa of Parma",
+  "output_filename": "maria-luisa-of-parma-adapted.mp4",
+  "timing_reference": "inbox/The Ridicule Maria Luisa of Parma Experienced #history #paintings #art.webm",
+  "reference_duration_seconds": 23.931,
+  "reference_duration_tolerance_seconds": 0.15,
+  "segments": [
+    {
+      "type": "still",
+      "asset": "working/the-ridicule-maria-luisa-of-parma-experienced-history-paintings-art/assets/01-Baldrighi-Family-of-Don-Filippo-1757.jpg",
+      "frames": 98,
+      "caption": "Born in Parma in 1751,\nshe was a Bourbon princess",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/the-ridicule-maria-luisa-of-parma-experienced-history-paintings-art/assets/02-Pecheux-Maria-Luisa-1765-Met.jpg",
+      "frames": 88,
+      "caption": "At 13, she married the\nfuture Charles IV",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/the-ridicule-maria-luisa-of-parma-experienced-history-paintings-art/assets/03-Mengs-Maria-Luisa-1765.jpg",
+      "frames": 81,
+      "caption": "Royal life brought pressure\nto produce heirs",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/the-ridicule-maria-luisa-of-parma-experienced-history-paintings-art/assets/04-Maella-Maria-Luisa-Oval-1789-1792.jpg",
+      "frames": 95,
+      "caption": "24 pregnancies: 14 children\nand 10 miscarriages",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/the-ridicule-maria-luisa-of-parma-experienced-history-paintings-art/assets/05-Goya-Maria-Luisa-1789-RAH.jpg",
+      "frames": 97,
+      "caption": "Only 7 of her 14 children\nreached adulthood",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/the-ridicule-maria-luisa-of-parma-experienced-history-paintings-art/assets/06-Goya-Maria-Luisa-on-Horseback-1799.jpg",
+      "frames": 87,
+      "caption": "Her youngest son was born in 1794,\nwhen she was 42",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/the-ridicule-maria-luisa-of-parma-experienced-history-paintings-art/assets/07-Esteve-after-Goya-Maria-Luisa-Mantilla-1800.jpg",
+      "frames": 83,
+      "caption": "The pregnancies took a toll:\nshe aged early and lost her teeth",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/the-ridicule-maria-luisa-of-parma-experienced-history-paintings-art/assets/08-Goya-Family-of-Charles-IV-1800-1801.jpg",
+      "frames": 89,
+      "caption": "Political rumours and sexist attacks\nmade her a public target",
+      "caption_y": 0.65
+    }
+  ]
+}

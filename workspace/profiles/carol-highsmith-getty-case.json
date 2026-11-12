@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "project_name": "Carol Highsmith and the Getty Images lawsuit",
+  "output_filename": "carol-highsmith-getty-case-adapted.mp4",
+  "timing_reference": "inbox/When Carol Highsmith Sued Getty Images for $1 Billion #art #photography #truestory.webm",
+  "reference_duration_seconds": 31.897,
+  "reference_duration_tolerance_seconds": 0.15,
+  "segments": [
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/01-carol-santa-elena-canyon.jpg",
+      "frames": 89,
+      "caption": "Carol Highsmith sued Getty\nand Alamy for $1 billion",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.loc.gov/item/2014630613/",
+        "page_title": "Photographer Carol M. Highsmith at Santa Elena Canyon",
+        "publisher": "Library of Congress",
+        "asset_sha256": "5c4efb8855382348bc5d36c26387a1449d8bb8cf4e10116dbf1a6c06fcb44c82",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "Matched the clean local photograph to the Library of Congress record for Highsmith.26413, captured at Santa Elena Canyon; the local image is the original source photograph and contains no reference-video caption pixels"
+      }
+    },
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/02-carol-highsmith-lpb-portrait.jpg",
+      "frames": 76,
+      "caption": "The dispute centered on\nimages she had donated\nfor public access",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.lpb.org/programs/capturing-america-the-carol-highsmith-story/",
+        "page_title": "Capturing America: The Carol Highsmith Story",
+        "publisher": "Louisiana Public Broadcasting",
+        "asset_sha256": "c6eea6e661c0a03e46359be856205d82462f97c123ccc33bae0ad365b81fbfae",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "Matched the clean Carol Highsmith and bald eagle portrait to the LPB Capturing America page; no pixels from the inspiration Short were used"
+      }
+    },
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/03-cabin-and-navajo-family-composite.jpg",
+      "frames": 102,
+      "caption": "She spent decades\ndocumenting life across\nthe United States",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.loc.gov/pictures/item/2011630024/",
+        "page_title": "Composite of Kate Carter in the family log cabins and a Navajo family in Monument Valley",
+        "publisher": "Library of Congress and The Noun Project",
+        "asset_sha256": "4b1773402e7179caac1439c6e0dfea097d8388285e0ddba863fa06dfed2ac182",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "This is a new two-panel composition made only from clean originals: upper panel is Kate Carter in the family log cabins from Library of Congress item 2011630024; lower panel is Three generations of Navajo family members posing in Monument Valley, AZ, credited to Carol M. Highsmith at https://thenounproject.com/photo/three-generations-of-navajo-family-members-posing-in-monument-valley-az-A0yPjb/. No reference-video frame pixels, embedded captions, masks, or retouching were used"
+      }
+    },
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/05-area-studies-reading-room.jpg",
+      "frames": 112,
+      "caption": "In 1992, she began\ndonating her work to\nthe Library of Congress",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.loc.gov/pictures/item/2011631433/",
+        "page_title": "Area Studies reading room at the Library of Congress, Thomas Jefferson Building",
+        "publisher": "Library of Congress",
+        "asset_sha256": "8669cde962cd4d2a17f53e88a4d029f3abd13ef4d476779a635d2cfc5d3280a1",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "Matched the clean reading-room photograph to the Library of Congress catalog record for Area Studies reading room, digital ID highsm.13239; no reference-video overlay pixels were reused"
+      }
+    },
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/06-carol-mckinney-age-four.jpg",
+      "frames": 121,
+      "caption": "She wanted her images to be\nfreely available to everyone",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.loc.gov/item/2011634798/",
+        "page_title": "Carol McKinney at age four with her sister Sara at their grandmother's farm",
+        "publisher": "Library of Congress",
+        "asset_sha256": "927a9ca50642f65f1bf4b06e8e9b0b0ff0e6666cf8d6216a4dd1228b66a1c3d4",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "Matched the clean childhood photograph to Library of Congress item 2011634798, captioned as Carol McKinney at age four with her sister Sara; no reference-video pixels were used"
+      }
+    },
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/07-andy-taylor-opie-statue.jpg",
+      "frames": 113,
+      "caption": "A photo-licensing\nmonitor sent her a $120\npayment demand",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.loc.gov/item/2017881373/",
+        "page_title": "The bronze Andy Taylor and Opie statue in Raleigh, North Carolina",
+        "publisher": "Library of Congress",
+        "asset_sha256": "f20e7bc8663f276a2d2e929256ac579a5f3f54105875a728084bd89dec82d05b",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "Matched the clean statue photograph to Library of Congress record highsm.44558; the caption describes the separate 2015 payment demand and does not claim this statue image was the image named in the demand"
+      }
+    },
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/08-willard-hotel-broken-mirror-self-portrait.jpg",
+      "frames": 134,
+      "caption": "She had taken the image\nand posted it on\nher own website",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.loc.gov/pictures/item/2011634801/",
+        "page_title": "Self portrait of photographer Carol M. Highsmith via a broken mirror during the Willard Hotel restoration",
+        "publisher": "Library of Congress",
+        "asset_sha256": "32ddf85f1e401ef764b0f72a0ab0419494eb2b4824bc38058a00b6e67d21fba5",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "Matched the clean black-and-white Willard Hotel broken-mirror self portrait to Library of Congress record highsm.16608; no overlays from the reference Short were used"
+      }
+    },
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/09-hot-air-balloon-jubilee.jpg",
+      "frames": 115,
+      "caption": "In 2016, she sued Getty\nand Alamy over how they\nhandled her photographs",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.loc.gov/pictures/item/2010640777/",
+        "page_title": "Hot Air Balloon Jubilee Festival, Decatur, Alabama",
+        "publisher": "Library of Congress",
+        "asset_sha256": "dc5435fcbe3833fe7cdaa1627d97954398d8c58e5bc221ee514853d36d3f28ff",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "Replaced the earlier visually similar balloon with the clean original candidate balloon-08964.jpg, matching the reference scene and Library of Congress item 2010640777, digital ID highsm.08964"
+      }
+    },
+    {
+      "type": "still",
+      "asset": "working/when-carol-highsmith-sued-getty-images-for-1-billion-art-photography-truestory/assets/10-carol-highsmith-big-creek-ranch.jpg",
+      "frames": 95,
+      "caption": "Federal claims dismissed\nOther claims later settled",
+      "caption_y": 0.66,
+      "source": {
+        "url": "https://www.loc.gov/item/2017884292/",
+        "page_title": "Carol Highsmith at Big Creek Ranch beside the horse Amarillo",
+        "publisher": "Library of Congress",
+        "asset_sha256": "530bf0bc9a7d6b72c2f4bea68dfb79d3c8bb538f31efd0e99c264f21f2782c49",
+        "retrieved_at_utc": "2026-11-11T06:36:39Z",
+        "verified_original": true,
+        "verification_note": "Matched the clean original digital photograph to Library of Congress item 2017884292, showing Highsmith next to the horse Amarillo at Big Creek Ranch; the closing caption distinguishes the federal dismissal from the later settlement"
+      }
+    }
+  ]
+}

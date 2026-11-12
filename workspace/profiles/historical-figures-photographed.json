@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "project_name": "Historical Figures Who Lived Long Enough to Be Photographed",
+  "output_filename": "historical-figures-photographed-adapted.mp4",
+  "timing_reference": "inbox/HISTORICAL FIGURES Who Lived Long Enough to be Photographed 🤯📸 #shorts #viralshorts #history.webm",
+  "reference_duration_seconds": 38.198725,
+  "reference_duration_tolerance_seconds": 0.15,
+  "segments": [
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/01-van-gogh-self-portrait-1887.jpg",
+      "frames": 89,
+      "caption": "Vincent van Gogh\nSelf-Portrait, 1887",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/02-van-gogh-emile-bernard-asnieres-1886.jpg",
+      "frames": 90,
+      "caption": "Vincent van Gogh & Émile Bernard\nAsnières, 1886 — Van Gogh seen from behind",
+      "caption_y": 0.25,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ]
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/03-abraham-lincoln-healy-portrait-1869.jpg",
+      "frames": 90,
+      "caption": "Abraham Lincoln\nHealy portrait, 1869",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/04-abraham-lincoln-first-beard-photo-1861.jpg",
+      "frames": 90,
+      "caption": "Abraham Lincoln\nFirst full-beard photograph, 1861",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/05-maria-amalia-hersent-portrait.jpg",
+      "frames": 90,
+      "caption": "Maria Amalia\nHersent portrait, 1836",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/06-maria-amalia-claudet-photo-c1860.jpg",
+      "frames": 90,
+      "caption": "Maria Amalia\nClaudet photograph, 1860",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/07-ada-lovelace-carpenter-portrait-1836.jpg",
+      "frames": 90,
+      "caption": "Ada Lovelace\nPortrait attributed to Chalon, circa 1840",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/08-ada-lovelace-claudet-daguerreotype-1843.jpg",
+      "frames": 90,
+      "caption": "Ada Lovelace\nClaudet daguerreotype, circa 1843",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/09-arthur-wellesley-lawrence-portrait-1815.jpg",
+      "frames": 90,
+      "caption": "Arthur Wellesley\nDuke of Wellington, circa 1815–1816",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/10-arthur-wellesley-claudet-daguerreotype-1844.jpg",
+      "frames": 90,
+      "caption": "Arthur Wellesley\nClaudet daguerreotype, 1 May 1844",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/11-dolley-madison-bass-otis-portrait-1817.jpg",
+      "frames": 90,
+      "caption": "Dolley Madison\nBass Otis portrait, circa 1815–1820",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-figures-photographed/assets/12-dolley-madison-plumbe-daguerreotype-1846.png",
+      "frames": 90,
+      "caption": "Dolley Madison\nPlumbe daguerreotype, 1846",
+      "caption_y": 0.84,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.94
+    }
+  ]
+}

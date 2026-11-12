@@ -1,0 +1,9 @@
+mcp[cli]==2.3.0
+imageio-ffmpeg==0.8.1
+scenedetect-headless==0.7.2
+rapidocr==3.10.0
+onnxruntime==1.31.1
+numpy==2.5.4
+opencv-python-headless==5.0.0.93
+Pillow==13.0.0
+yt-dlp[default]==2026.10.26

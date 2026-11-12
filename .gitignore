@@ -1,0 +1,38 @@
+﻿# Ignore local environments, generated media, caches, and private credentials.
+.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Per-machine runtime data and generated project artifacts.
+workspace/cache/
+workspace/inbox/
+workspace/output/
+workspace/reactions/
+workspace/working/
+
+# F37 Caslon font files are separately licensed and must not be redistributed.
+workspace/fonts/*
+!workspace/fonts/F37-Caslon/
+workspace/fonts/F37-Caslon/*
+!workspace/fonts/F37-Caslon/README.md
+
+# Keep the small, pinned YuNet model used by face-clearance checks.
+workspace/models/*
+!workspace/models/face_detection_yunet_2023mar.onnx
+
+# Logs, temporary files, and secrets.
+*.log
+*.tmp
+*.pid
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+.DS_Store
+Thumbs.db

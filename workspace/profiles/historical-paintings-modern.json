@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "project_name": "Historical Paintings That Look Surprisingly Modern",
+  "output_filename": "historical-paintings-that-look-modern-adapted.mp4",
+  "timing_reference": "inbox/Historical Paintings That Look Surprisingly Modern! 🎨🤯.webm",
+  "reference_duration_seconds": 21.066,
+  "reference_duration_tolerance_seconds": 0.15,
+  "segments": [
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/01-rubens-four-studies.jpg",
+      "frames": 60,
+      "caption": "1614–1616",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/02-philpot-young-breton.jpg",
+      "frames": 45,
+      "caption": "1917",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/03-honthorst-smiling-girl.jpg",
+      "frames": 44,
+      "caption": "1625",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/04-serebriakova-dressing-table.jpg",
+      "frames": 44,
+      "caption": "1909",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/05-repin-garshin.jpg",
+      "frames": 45,
+      "caption": "1884",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/06-jank-woman-parrot.jpg",
+      "frames": 46,
+      "caption": "1898",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/07-wade-nathaniel-olds.jpg",
+      "frames": 44,
+      "caption": "1837",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/08-kirchner-artistin.jpg",
+      "frames": 46,
+      "caption": "1910",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/09-russell-mr-moyes.jpg",
+      "frames": 46,
+      "caption": "1792",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/10-rusinol-ramon-casas.jpg",
+      "frames": 44,
+      "caption": "1889",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/11-faccini-head-youth.jpg",
+      "frames": 46,
+      "caption": "Circa 1590",
+      "caption_y": 0.65
+    },
+    {
+      "type": "still",
+      "asset": "working/historical-paintings-that-look-surprisingly-modern/assets/12-colville-dog-bridge.jpg",
+      "frames": 46,
+      "caption": "1976",
+      "caption_y": 0.65
+    }
+  ]
+}

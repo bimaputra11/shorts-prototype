@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "project_name": "Portrait of Mrs. Asher B. Wertheimer",
+  "output_filename": "portrait-of-mrs-asher-wertheimer-adapted.mp4",
+  "timing_reference": "inbox/Portrait of Mrs. Asher B. Wertheimer by John Singer Sargent #history #art.webm",
+  "reference_duration_seconds": 17.832,
+  "reference_duration_tolerance_seconds": 0.15,
+  "segments": [
+    {
+      "type": "keyframed_image",
+      "asset": "working/portrait-of-mrs.-asher-b.-wertheimer-by-john-singer-sargent-history-art/assets/Mrs-Asher-B-Wertheimer-John-Singer-Sargent-1898-2722x4164.jpg",
+      "frames": 388,
+      "source_start_seconds": 4.9,
+      "camera_keyframes": "working/portrait-of-mrs.-asher-b.-wertheimer-by-john-singer-sargent-history-art/assets/camera-zoom-keyframes.json",
+      "captions": [
+        {
+          "start_seconds": 4.9,
+          "end_seconds": 6.974,
+          "text": "Look at the pearls\non her white gown",
+          "y": 0.65
+        },
+        {
+          "start_seconds": 6.974,
+          "end_seconds": 8.94,
+          "text": "Now look closer",
+          "y": 0.65
+        },
+        {
+          "start_seconds": 8.94,
+          "end_seconds": 11.2,
+          "text": "Closer still",
+          "y": 0.65
+        },
+        {
+          "start_seconds": 11.2,
+          "end_seconds": 13.3,
+          "text": "Just tiny dabs of paint",
+          "y": 0.65
+        },
+        {
+          "start_seconds": 13.3,
+          "end_seconds": 15.074,
+          "text": "Sargent painted more\nthan objects",
+          "y": 0.65
+        },
+        {
+          "start_seconds": 15.074,
+          "end_seconds": 17.832,
+          "text": "He captured the light\nthat makes them feel alive",
+          "y": 0.65
+        }
+      ]
+    }
+  ]
+}

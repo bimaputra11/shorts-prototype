@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "project_name": "Replace with this Short's subject",
+  "output_filename": "new-short-adapted.mp4",
+  "timing_reference": "inbox/your-inspiration-video.mp4",
+  "reference_duration_seconds": 0,
+  "reference_duration_tolerance_seconds": 0.15,
+  "segments": [
+    {
+      "type": "still",
+      "asset": "working/your-project/assets/clean-matching-image.jpg",
+      "frames": 90,
+      "caption": "First balanced line\nSecond balanced line",
+      "caption_y": 0.65
+    },
+    {
+      "type": "keyframed_image",
+      "asset": "working/your-project/assets/clean-moving-image.jpg",
+      "frames": 180,
+      "source_start_seconds": 0,
+      "camera_keyframes": "working/your-project/assets/camera-keyframes.json",
+      "captions": [
+        {
+          "start_seconds": 0,
+          "end_seconds": 6,
+          "text": "Balanced caption line one\nBalanced caption line two",
+          "y": 0.65
+        }
+      ]
+    }
+  ]
+}

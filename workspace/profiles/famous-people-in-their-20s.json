@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "project_name": "What Did Famous People Look Like in Their 20s",
+  "output_filename": "famous-people-in-their-20s-adapted.mp4",
+  "timing_reference": "inbox/What Did Famous People Look Like in Their 20s- - Rare Historical Photos.webm",
+  "reference_duration_seconds": 22.931,
+  "reference_duration_tolerance_seconds": 0.15,
+  "segments": [
+    {
+      "type": "still",
+      "asset": "working/what-did-famous-people-look-like-in-their-20s-rare-historical-photos/assets/01-einstein-1904.jpg",
+      "frames": 75,
+      "caption": "Albert Einstein\nAge 25",
+      "caption_y": 0.65,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ]
+    },
+    {
+      "type": "still",
+      "asset": "working/what-did-famous-people-look-like-in-their-20s-rare-historical-photos/assets/02-churchill-1900.jpg",
+      "frames": 74,
+      "caption": "Winston Churchill\nAge 26",
+      "caption_y": 0.76,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.92
+    },
+    {
+      "type": "still",
+      "asset": "working/what-did-famous-people-look-like-in-their-20s-rare-historical-photos/assets/03-gandhi-young.jpg",
+      "frames": 76,
+      "caption": "Mahatma Gandhi\nEarly twenties",
+      "caption_y": 0.76,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.92
+    },
+    {
+      "type": "still",
+      "asset": "working/what-did-famous-people-look-like-in-their-20s-rare-historical-photos/assets/04-chaplin-1910.jpg",
+      "frames": 75,
+      "caption": "Charlie Chaplin\nAge 21",
+      "caption_y": 0.76,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.92
+    },
+    {
+      "type": "still",
+      "asset": "working/what-did-famous-people-look-like-in-their-20s-rare-historical-photos/assets/05-tesla-c1878.jpg",
+      "frames": 75,
+      "caption": "Nikola Tesla\nAge 23",
+      "caption_y": 0.76,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.92
+    },
+    {
+      "type": "still",
+      "asset": "working/what-did-famous-people-look-like-in-their-20s-rare-historical-photos/assets/06-picasso-1904.jpg",
+      "frames": 75,
+      "caption": "Pablo Picasso\nAround age 23",
+      "caption_y": 0.76,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.92
+    },
+    {
+      "type": "still",
+      "asset": "working/what-did-famous-people-look-like-in-their-20s-rare-historical-photos/assets/07-elizabeth-1947.jpg",
+      "frames": 74,
+      "caption": "Princess Elizabeth\nAge 21",
+      "caption_y": 0.65,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ]
+    },
+    {
+      "type": "still",
+      "asset": "working/what-did-famous-people-look-like-in-their-20s-rare-historical-photos/assets/08-mark-twain-1855.jpg",
+      "frames": 74,
+      "caption": "Mark Twain\nAbout age 20",
+      "caption_y": 0.76,
+      "caption_line_colors": [
+        "white",
+        "yellow"
+      ],
+      "caption_safe_bottom_fraction": 0.92
+    }
+  ]
+}
